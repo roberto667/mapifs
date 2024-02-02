@@ -1,8 +1,0 @@
-res://telamap/map.tscn
-res://splashmap/splashscreen.tscn
-res://telamap/paredes/tile_map_2.tscn
-res://telamap/scrpts/map.gd
-res://telamap/scrpts/bolinha.gd
-res://telamap/scrpts/ola.gd
-res://telamap/scrpts/dropdown.gd
-res://global.gd

@@ -1,0 +1,5 @@
+res://splashmap/splashscreen.tscn
+res://telamap/scrpts/bolinha.gd
+res://telamap/scrpts/map.gd
+res://telamap/map.tscn
+res://bolinha.tscn
